@@ -53,3 +53,26 @@ Este proyecto está bajo la Licencia MIT. Puedes ver el archivo de licencia en `
 
 
 
+## Otros Archivos
+
+- `README.md`: Archivo que contiene la documentación del proyecto.
+- `requirements.txt`: Archivo que lista las dependencias del proyecto.
+- `data/`: Directorio que contiene archivos de datos adicionales.
+
+## Análisis Adicional
+
+Además del análisis de ventas, el proyecto puede realizar los siguientes análisis adicionales:
+
+### Análisis de Tendencias
+
+Este análisis identifica las tendencias de ventas a lo largo del tiempo. Se puede generar un gráfico de líneas para visualizar cómo cambian las ventas de cada producto mes a mes.
+
+### Análisis de Clientes
+
+Este análisis se enfoca en identificar los patrones de compra de los clientes. Se puede generar un gráfico de barras para mostrar la cantidad de productos comprados por cada cliente.
+
+### Análisis de Descuentos
+
+Este análisis evalúa el impacto de los descuentos en las ventas. Se puede generar un gráfico de barras para comparar las ventas con y sin descuentos.
+
+Para ejecutar estos análisis adicionales, puedes modificar el script `analisis_ventas.py` o crear nuevos scripts específicos para cada análisis.
