@@ -45,7 +45,11 @@ El archivo `datos.csv` contiene las siguientes columnas:
 
 2. **Duración Promedio con Asistente por Área**  
    Un gráfico de barras que presenta la duración promedio de las interacciones por cada área.
+<<<<<<< HEAD
    ![Duración Promedio con Asistente](/assets/images/Duracion%20promedio.png)
+=======
+   ![Duración Promedio con Asistente](assets/images/Indice de satisfaccion predictivo por columnas.png)
+>>>>>>> 5acdec0d79b0be48f1ed7e8c119c85dba8680fcc
 
 3. **Relación entre Velocidad de Respuesta e Índice de Satisfacción**  
    Un gráfico de dispersión que muestra la relación entre la rapidez en la respuesta y la satisfacción del cliente.
