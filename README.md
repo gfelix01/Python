@@ -20,7 +20,7 @@ El objetivo principal es descubrir patrones y áreas de mejora en la atención a
 - `datos.csv`: Dataset que contiene las métricas de las llamadas.
 - `analisis_datos.py`: Script principal que ejecuta el análisis y genera las visualizaciones.
 - `README.md`: Documento con la descripción del proyecto y las instrucciones.
-- `grafico_1.png`, `grafico_2.png`, `grafico_3.png`: Imágenes de los gráficos generados.
+- `/assets/images/Indice%20de%20satisfaccion%20predictivo%20por%20columnas.png`, `/assets/images/Duracion%20promedio.png`, `/assets/images/Velocidad_respuesta.png`: Imágenes de los gráficos generados.
 
 ---
 
@@ -41,15 +41,15 @@ El archivo `datos.csv` contiene las siguientes columnas:
 ## 📊 **Visualizaciones Incluidas**
 1. **Distribución del Índice de Satisfacción por Área**  
    Un gráfico de caja que muestra cómo varía el índice de satisfacción en diferentes áreas de la empresa.
-   ![Distribución del Índice de Satisfacción](Velocidarespuesta.png)
+   ![Distribución del Índice de Satisfacción](/assets/images/Indice%20de%20satisfaccion%20predictivo%20por%20columnas.png)
 
 2. **Duración Promedio con Asistente por Área**  
    Un gráfico de barras que presenta la duración promedio de las interacciones por cada área.
-   ![Duración Promedio con Asistente](grafico_2.png)
+   ![Duración Promedio con Asistente](/assets/images/Duracion%20promedio.png)
 
 3. **Relación entre Velocidad de Respuesta e Índice de Satisfacción**  
    Un gráfico de dispersión que muestra la relación entre la rapidez en la respuesta y la satisfacción del cliente.
-   ![Relación Velocidad-Satisfacción](grafico_3.png)
+   ![Relación Velocidad-Satisfacción](/assets/images/Velocidad_respuesta.png)
 
 ---
 
@@ -67,7 +67,7 @@ El archivo `datos.csv` contiene las siguientes columnas:
 pip install pandas matplotlib seaborn
 python analisis_datos.py
 🎨 Logo del Proyecto
-<p align="center"> <img src="logo.png" alt="Logo del Proyecto" width="200"> </p>
+<p align="center"> <img src="/assets/images/Logo.svg" alt="Logo del Proyecto" width="200"> </p>
 📚 Licencia
 Este proyecto está bajo la licencia MIT. Para más detalles, consulta el archivo LICENSE.
 
