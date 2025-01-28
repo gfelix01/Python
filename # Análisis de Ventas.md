@@ -6,6 +6,7 @@ Este proyecto realiza un análisis de ventas a partir de un archivo CSV y genera
 
 - `analisis_ventas.py`: Script de Python que realiza el análisis de ventas.
 - `ventas.csv`: Archivo CSV que contiene los datos de ventas.
+- `LICENSE`: Archivo que contiene la licencia del proyecto.
 
 ## Requisitos
 
@@ -45,8 +46,10 @@ El script generará dos gráficos:
 
 Gráfico de barras para el total de ventas por producto.
 Gráfico de pie para mostrar el porcentaje de cada producto en las ventas.
-Licencia
-Este proyecto está bajo la Licencia MIT.
+
+## Licencia
+
+Este proyecto está bajo la Licencia MIT. Puedes ver el archivo de licencia en `LICENSE`.
 
 
 
