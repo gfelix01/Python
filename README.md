@@ -41,7 +41,7 @@ El archivo `datos.csv` contiene las siguientes columnas:
 ## 📊 **Visualizaciones Incluidas**
 1. **Distribución del Índice de Satisfacción por Área**  
    Un gráfico de caja que muestra cómo varía el índice de satisfacción en diferentes áreas de la empresa.
-   ![Distribución del Índice de Satisfacción](grafico_1.png)
+   ![Distribución del Índice de Satisfacción](Velocidarespuesta.png)
 
 2. **Duración Promedio con Asistente por Área**  
    Un gráfico de barras que presenta la duración promedio de las interacciones por cada área.
